@@ -9,3 +9,9 @@ In my spare time I develop a full stack application based on **MERN Stack** (Mon
 I like **React** and **Drupal**!
 
 I'm always highly interested in new web technologies and I constantly keep learning and studying.
+
+[Website](https://tpliakas.com)
+
+[LinkedIn](https://www.linkedin.com/in/theodorospliakas/)
+
+[StackOverflow](https://stackoverflow.com/users/7622832/tpliakas)
