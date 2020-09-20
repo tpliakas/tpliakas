@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Frontend Developer** currently working in **Banking Industry**.
+I am a **Frontend Engineer** currently working in **Banking Industry**.
 
 **Passionate** about **web technologies**!
 
