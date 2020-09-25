@@ -9,7 +9,7 @@ In my spare time I develop a full stack application based on **MERN Stack** (Mon
 I like **React**, **React-Native**, **Drupal** and **Android**!
 
 I'm always highly interested in new web technologies and I constantly keep learning and studying.
-
+<br /><br /><br />
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tpliakas&&show_icons=true&theme=react" alt="Theodore's Github Stats">
 </p>  
