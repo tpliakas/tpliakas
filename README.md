@@ -10,8 +10,15 @@ I like **React**, **React-Native**, **Drupal** and **Android**!
 
 I'm always highly interested in new web technologies and I constantly keep learning and studying.
 
-[Website](https://tpliakas.com)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tpliakas&&show_icons=true&theme=react" alt="Theodore's Github Stats">
+</p>  
+<br /><br />
+<p align="center">
+  <b>Find me on</b>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/theodorospliakas/)
-
-[StackOverflow](https://stackoverflow.com/users/7622832/tpliakas)
+<p align="center"><span>
+<a href="https://tpliakas.com"><img src="https://img.shields.io/badge/Website-663399?style=for-the-badge&logo=gatsby"></a>&nbsp;&nbsp;&nbsp;</span>
+<span><a href="https://www.linkedin.com/in/theodorospliakas/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"></a>&nbsp;&nbsp;&nbsp;</span>
+<span><a href="https://stackoverflow.com/users/7622832/tpliakas"><img src="https://img.shields.io/badge/StackOverflow-e8e8e8?style=for-the-badge&logo=stackoverflow"></a>&nbsp;&nbsp;&nbsp;</span></p>
