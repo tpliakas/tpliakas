@@ -6,7 +6,7 @@ I am a **Frontend Engineer** currently working in **Banking Industry**.
 
 In my spare time I develop a full stack application based on **MERN Stack** (Mongo, Express, React, Node) for my Master Thesis.
 
-I like **React**, **React-Native**, **Drupal** and **Android**!
+I like **React**, **Node**, **MongoDB**, **React-Native**, **Drupal** and **Android**!
 
 I'm always highly interested in new web technologies and I constantly keep learning and studying.
 <br /><br /><br />
