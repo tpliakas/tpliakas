@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am a **Frontend Engineer** currently working in **Banking Industry**.
+I am a **Frontend Sfotware Engineer** currently working in **FinTech Industry**.
 
 **Passionate** about **web technologies**!
-
-In my spare time I develop a full stack application based on **MERN Stack** (Mongo, Express, React, Node) for my Master Thesis.
 
 I like **React**, **Vue**, **Node**, **MongoDB**, **React-Native**, **Drupal** and **Android**!
 
