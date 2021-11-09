@@ -4,7 +4,7 @@ I am a **Frontend Sfotware Engineer** currently working in **FinTech Industry**.
 
 **Passionate** about **web technologies**!
 
-I like **React**, **Vue**, **Node**, **MongoDB**, **React-Native**, **Drupal** and **Android**!
+In my spare time i make my first steps into **WebXR**, **three.js**, **micro-frontends** and **webpack's 5 Module Federation**!
 
 I'm always highly interested in new web technologies and I constantly keep learning and studying.
 <br /><br />
