@@ -17,7 +17,7 @@ I'm always highly interested in new web technologies and I constantly keep learn
 <span><a href="https://stackoverflow.com/users/7622832/tpliakas"><img src="https://img.shields.io/badge/StackOverflow-e8e8e8?style=for-the-badge&logo=stackoverflow"></a>&nbsp;&nbsp;&nbsp;</span></p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpliakas&layout=compact&langs_count=8" alt="Theodore's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpliakas&layout=compact&langs_count=10" alt="Theodore's Github Stats">
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>
