@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Frontend Sfotware Engineer** currently working in **FinTech Industry**.
+I am a **Frontend Software Engineer** currently working in **FinTech Industry**.
 
 **Passionate** about **web technologies**!
 
