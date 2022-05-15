@@ -3,7 +3,6 @@
 I am a **Frontend Software Engineer** currently working in **Travel Industry**.
 
 Intrested in **data science**, **WebXR**, **three.js** & **micro-frontends**!
-
 <br /><br />
 <p>
   <b>Find me on</b>
