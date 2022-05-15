@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-I am a **Frontend Software Engineer** currently working in **FinTech Industry**.
+I am a **Frontend Software Engineer** currently working in **Travel Industry**.
 
-**Passionate** about **web technologies**!
+Intrested in **data science**, **WebXR**, **three.js** & **micro-frontends**!
 
-In my spare time i dive into **data science**, **WebXR**, **three.js** & **micro-frontends**!
-
-I'm always highly interested in new web technologies and I constantly keep learning and studying.
 <br /><br />
 <p>
   <b>Find me on</b>
