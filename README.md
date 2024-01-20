@@ -2,7 +2,7 @@
 
 I am a **Frontend Software Engineer** currently working in **Travel Industry**.
 
-Intrested in **data science**, **WebXR**, **three.js** & **micro-frontends**!
+Intrested in **ML & AI**, **WebXR**, **three.js** & **micro-frontends**!
 <br /><br />
 <p>
   <b>Find me on</b>
@@ -15,9 +15,6 @@ Intrested in **data science**, **WebXR**, **three.js** & **micro-frontends**!
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpliakas&layout=compact&langs_count=10&exclude_repo=Moviee" alt="Theodore's Github Stats">
 </p>  
-
-
-[![@tpliakas's Holopin board](https://holopin.io/api/user/board?user=tpliakas)](https://holopin.io/@tpliakas)
 
 
 <h3 align="left">Languages and Tools:</h3>
