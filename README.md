@@ -8,7 +8,7 @@ Intrested in **ML & AI**, **WebXR**, **three.js** & **micro-frontends**!
   <b>Find me on</b>
 </p>
 <p ><span>
-<a href="https://tpliakas.com"><img src="https://img.shields.io/badge/Website-663399?style=for-the-badge&logo=gatsby"></a>&nbsp;&nbsp;&nbsp;</span>
+<a href="https://tpliakas.com"><img src="https://img.shields.io/badge/Website-f1f1f1?style=for-the-badge&logo=html5"></a>&nbsp;&nbsp;&nbsp;</span>
 <span><a href="https://www.linkedin.com/in/theodorospliakas/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"></a>&nbsp;&nbsp;&nbsp;</span>
 <span><a href="https://stackoverflow.com/users/7622832/tpliakas"><img src="https://img.shields.io/badge/StackOverflow-e8e8e8?style=for-the-badge&logo=stackoverflow"></a>&nbsp;&nbsp;&nbsp;</span></p>
 
