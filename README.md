@@ -13,7 +13,7 @@ Intrested in **ML & AI**, **WebXR**, **three.js** & **micro-frontends**!
 <span><a href="https://stackoverflow.com/users/7622832/tpliakas"><img src="https://img.shields.io/badge/StackOverflow-e8e8e8?style=for-the-badge&logo=stackoverflow"></a>&nbsp;&nbsp;&nbsp;</span></p>
 
 <p>
-<img src="https://github-readme-stats-nine-sigma-11.vercel.app/api/top-langs/?username=tpliakas&layout=compact&langs_count=12" alt="Theodore's Github Stats">
+<img src="https://github-readme-stats-nine-sigma-11.vercel.app/api/top-langs/?username=tpliakas&layout=compact&langs_count=12" alt="Theodore's Github Stats"> 
 </p>  
 
 
